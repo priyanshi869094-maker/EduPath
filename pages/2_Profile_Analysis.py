@@ -158,7 +158,7 @@ if st.button("🚀 Analyze My Profile", use_container_width=True):
                 f"🤖 Focus on **{role}**, improve your skills, "
                 "build projects and prepare for interviews."
             )
-       else:
+        else:
             st.write(
                 f"🤖 Focus on **{role}**, improve your skills, "
                 "build projects and prepare for interviews."
