@@ -1,1 +1,1 @@
-pypdf
+pypdf == 5.9.0
